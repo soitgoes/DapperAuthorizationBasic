@@ -1,0 +1,9 @@
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\marti\source\repos\DapperAuthorizationBasic\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
