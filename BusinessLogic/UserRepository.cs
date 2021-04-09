@@ -35,10 +35,10 @@ namespace BusinessLogic
 
         public User Save(User user)
         {
-            if (user.Id == 0)
-                connection.Update(user);
+            if (user.Id != 0)
+                connection.Update(new UserDao(user));
             else
-                user.Id = connection.Insert(user);
+                user.Id = connection.Insert(new UserDao(user));
             return user;
         }
     }

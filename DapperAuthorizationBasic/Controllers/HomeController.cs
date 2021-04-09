@@ -19,5 +19,12 @@ namespace DapperAuthorizationBasic.Controllers
         {
             return Content("I'm auth'd");
         }
+
+        [Authorize(Roles ="Admin")]
+        public IActionResult AdminsOnly()
+        {
+            var result = User.IsInRole("Admin");
+            return Content("I'm Admin");
+        }
     }
 }
